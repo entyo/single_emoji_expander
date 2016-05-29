@@ -1,0 +1,2 @@
+# single_emoji_expander
+Slackにおけるemoji単体のメッセージを拡大表示します
